@@ -1,1 +1,1 @@
-my python readme file for hello world
+This directory is contains introduction to Python
