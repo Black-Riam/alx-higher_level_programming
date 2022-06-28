@@ -1,1 +1,1 @@
-hello world python assignment
+This directory is contains introduction to Python
