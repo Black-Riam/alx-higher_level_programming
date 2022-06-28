@@ -1,1 +1,2 @@
- the looping system in python
+# About
+This directory contains if/else, loops, functions
