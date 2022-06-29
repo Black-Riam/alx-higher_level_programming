@@ -1,1 +1,1 @@
-This directory is contains introduction to Python
+This directory contains introduction to Python
